@@ -1,0 +1,13 @@
+.container-fluid{
+	margin-top: 25px;
+}
+
+.card-header{
+	background-color: skyblue;
+}
+
+/* Fixes dropdown menus placed on the right side */
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+}
